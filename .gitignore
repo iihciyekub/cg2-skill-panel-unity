@@ -1,0 +1,17 @@
+.DS_Store
+/dist/
+__pycache__/
+*.pyc
+# When the asset repository is opened inside a Unity project
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uild/
+[Bb]uilds/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
